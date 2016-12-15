@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 ####### Strand splitting script
-###### © Daria Gavriouchkina
+###### (c) Daria Gavriouchkina
 ###### Sauka-Spengler lab
 
 import pysam
