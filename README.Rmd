@@ -33,7 +33,7 @@ macs2 callpeak -t $AN\.nsort.bam.pebed -f BED --name macs2_$AN --shiftsize=100 -
 ```
 
 
-Original sam2bwPE_PE.pl script was kindly provided by Pr. Jim Hughes (WIMM, University of Oxford). Version presented here has been modified to work with zebrafish genome. 
+Original sam2bwPE_PE.pl script was kindly provided by [Pr. Jim Hughes](https://github.com/Hughes-Genome-Group) (WIMM, University of Oxford). Version presented here has been modified to work with zebrafish genome. 
 
 
 #### To split RNA-seq data by strand use split-strand-rna.py python script: 
@@ -54,12 +54,10 @@ http://userweb.molbiol.ox.ac.uk/public/dariag/biotagging/hub.txt
 
 #### Additional tracks of potentional intrest: 
 
-
 track type=bigBed name=" Zv9_introns"  bigDataUrl=http://userweb.molbiol.ox.ac.uk/public/dariag/biotag_ss/Zv9_introns.bb
 
 
-
-For additional information consult github hosted by [tsslab/biotagging] (https://github.com/tsslab/biotagging)
+For additional information consult github hosted by [tsslab/biotagging](https://github.com/tsslab/biotagging)
 
 #### Manuscript information 
 
